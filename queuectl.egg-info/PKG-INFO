@@ -1,0 +1,11 @@
+Metadata-Version: 2.4
+Name: queuectl
+Version: 1.0.0
+Summary: Production-grade CLI-based background job queue system
+Author: QueueCTL Team
+Requires-Python: >=3.10
+Requires-Dist: click>=8.0.0
+Dynamic: author
+Dynamic: requires-dist
+Dynamic: requires-python
+Dynamic: summary
